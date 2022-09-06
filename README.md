@@ -1,18 +1,18 @@
-# Working with times and dates in Python
+# Cleaning data in python
 
-Este projeto é referente a cursos e minhas experiências em como lidar com datas na prática usando python.
+Este projeto é referente a cursos e minhas experiências limpeza de dados na prática usando python.
 
 O projeto está dividido em 4 partes:
 
-### 1. [Introdução a datas](https://github.com/AlbertoRodrigues/working_with_dates_and_times_in_python/tree/master/1.introducao_datas)
+### 1. [Capitulo 1]()
 
-### 2. [Datas, horários e transformações de strings-datas](https://github.com/AlbertoRodrigues/working_with_dates_and_times_in_python/tree/master/2.adicionados_horarios_transformando_strings_e_time_deltas)
+### 2. [Capitulo 2]()
 
-### 3. [Horários de verão](https://github.com/AlbertoRodrigues/working_with_dates_and_times_in_python/tree/master/3.horario_de_verao)
+### 3. [Capitulo 3]()
 
-### 4. [Como usar datas no pandas](https://github.com/AlbertoRodrigues/working_with_dates_and_times_in_python/tree/master/4.dates_no_pandas)
+### 4. [Capitulo 4]()
 
 
 ## Referências 
 
-1. [Curso do DataCamp de lidar com datas e horários em python](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-python)
+1. [Curso do DataCamp de limpeza de dados em python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
