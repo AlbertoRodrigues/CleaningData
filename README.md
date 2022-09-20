@@ -4,13 +4,13 @@ Este projeto é referente a cursos e minhas experiências limpeza de dados na pr
 
 O projeto está dividido em 4 partes:
 
-### 1. [Capitulo 1]()
+### 1. [Introdução à data cleaning: mudança de tipo de variável, tratamento de duplicadas e restrições de variáveis](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/1)
 
-### 2. [Capitulo 2]()
+### 2. [Tratando strings e fora dos valores esperados](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/2)
 
-### 3. [Capitulo 3]()
+### 3. [Uniformidade de datas](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/3.uniformidade_de_datas)
 
-### 4. [Capitulo 4]()
+### 4. [Tratando strings e record linkage](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/4)
 
 
 ## Referências 
